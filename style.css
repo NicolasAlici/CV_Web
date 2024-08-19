@@ -1,0 +1,30 @@
+.Main_Title {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Mini_Presentation {
+    font-size: 20px;
+}
+
+.Presentation {
+    margin-bottom: 20px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.Links {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.Links a {
+    margin-right: 100px;
+}
+
+.Project_Title {
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+}
