@@ -5,6 +5,7 @@
 }
 
 .Mini_Presentation {
+    margin-top: 20px;
     font-size: 20px;
 }
 
@@ -12,19 +13,28 @@
     margin-bottom: 20px;
     line-height: 1.5;
     text-align: center;
+}   
+
+.Presentation_Title {
+    text-decoration: underline;
 }
 
 .Links {
-    margin-top: 150px;
+    margin-top: 80px;
     text-align: center;
 }
 
-.Links a {
-    margin-right: 100px;
-}
 
-.Project_Title {
+.Projects_Title {
     text-align: center;
     font-size: 20px;
     text-decoration: underline;
+    margin-top: 80px;
+}
+
+.Game_Projects_Title {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 20px;
 }
