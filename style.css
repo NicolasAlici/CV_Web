@@ -1,40 +1,72 @@
-.Main_Title {
+nav{
+    text-align: center;
+}
+
+a {
+    margin-right: 40px;
+    text-decoration: none;
+    color: rgb(42, 54, 211);
+}
+
+a:hover {
+    color: rgb(82, 82, 218);
+    text-decoration: underline;
+}
+
+a:visited {
+    color: rgb(42, 54, 211);
+}
+
+ul li {
+    list-style: none;
+    margin-bottom: 50px;
+}
+
+.directs {
+    list-style: none;
+}
+
+.main_Title {
     font-size: 30px;
-    font-weight: bold;
     text-align: center;
 }
 
-.Mini_Presentation {
-    margin-top: 20px;
-    font-size: 20px;
+.mini_Presentation {
+    font-size: 24px;
 }
 
-.Presentation {
-    margin-bottom: 20px;
-    line-height: 1.5;
-    text-align: center;
-}   
-
-.Presentation_Title {
-    text-decoration: underline;
+.mp_b {
+    font-weight: normal;
 }
 
-.Links {
+.full_presentation {
+    margin-left: 80px;
+}
+
+.presentation_title {
+    font-size: 22px;
     margin-top: 80px;
-    text-align: center;
+    
 }
 
-
-.Projects_Title {
-    text-align: center;
-    font-size: 20px;
-    text-decoration: underline;
-    margin-top: 80px;
+.presentation_info {
+    font-size: 16px;
 }
 
-.Game_Projects_Title {
-    text-align: center;
-    text-decoration: underline;
-    font-size: 20px;
-    margin-top: 20px;
+.presentation_title h2 {
+    margin-bottom: 5px;
+}
+
+.presentation_info p {
+    margin-top: 5px;
+}
+
+.contact_title {
+    text-align: right;
+    font-size: 22px;
+    margin-right: 375px;
+}
+
+.links {
+    margin-left: 1350px;
 }
